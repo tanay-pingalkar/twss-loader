@@ -68,15 +68,19 @@ module.exports={
 ## variables
 
 variables is not different in twss. It is like this
-.twss
+<br> .twss
 
 ```html
+# this is a comment
+
 *blue: 
   bg-blue-300 
+
 *mainDiv: 
   flex 
   justify-center 
   *blue
+
 ```
 
 loaded js output
