@@ -17,7 +17,8 @@
   "author": "tanay pingalkar",
   "license": "MIT",
   "scripts": {
-    "test": "npx jest --watch"
+    "test": "npx jest",
+    "test:pro":"npx jest --watch"
   },
   "dependencies": {
     "loader-utils": "^2.0.0"
