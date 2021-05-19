@@ -2,6 +2,19 @@
   "name": "twss-loader",
   "version": "1.0.0",
   "main": "src/twss-loader.js",
+  "homepage": "https://github.com/tanay-pingalkar/twss-loader",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanay-pingalkar/twss-loader.git"
+  },
+  "description": "a tailwind css webpack loader that give you rid of inline style with features like variables",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bugs": {
+    "url": "https://github.com/tanay-pingalkar/twss-loader/issues"
+  },
+  "author": "tanay pingalkar",
   "license": "MIT",
   "scripts": {
     "test": "npx jest --watch"
