@@ -1,6 +1,6 @@
 {
   "name": "twss-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "src/twss-loader.js",
   "homepage": "https://github.com/tanay-pingalkar/twss-loader",
   "repository": {
@@ -18,7 +18,7 @@
   "license": "MIT",
   "scripts": {
     "test": "npx jest",
-    "test:pro":"npx jest --watch"
+    "test:pro": "npx jest --watch"
   },
   "dependencies": {
     "loader-utils": "^2.0.0"
