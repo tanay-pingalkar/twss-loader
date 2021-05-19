@@ -71,7 +71,12 @@ variables is not different in twss. It is like this
 .twss
 
 ```html
-*blue: bg-blue-300 *mainDiv: flex justify-center *blue
+*blue: 
+  bg-blue-300 
+*mainDiv: 
+  flex 
+  justify-center 
+  *blue
 ```
 
 loaded js output
