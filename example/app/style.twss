@@ -1,0 +1,45 @@
+# this is twss-loader
+
+*blue:
+  bg-blue-200 
+
+*nav:
+  p-3 
+  flex
+  justify-between
+  *blue
+
+*name: 
+  subpixel-antialiased 
+  text-gray-700 
+  text-2xl 
+  font-extrabold
+  font-mono 
+  hover:text-black 
+
+*github:
+  h-7
+
+*mainDiv:
+  h-screen
+  bg-blue-50
+  overflow-scroll-auto
+
+*title:
+  text-4xl
+  mt-52
+  font-extrabold
+  tracking-widest
+  text-center
+  z-10
+
+
+*logo:
+  absolute
+  mt-24
+
+*body:
+  flex
+  justify-center
+  h-5/6
+
